@@ -76,7 +76,6 @@ const Mailer = () => {
             </div>
             <div class="col-lg-4 ml-auto">
               <h3 class="mb-4">Let's talk about everything.</h3>
-              
             </div>
           </div>
         </div>  
