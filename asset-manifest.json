@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talkwithaakash.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/talkwithaakash.github.io/static/js/main.f50a359f.js",
+    "static/js/787.4e0fd15f.chunk.js": "/talkwithaakash.github.io/static/js/787.4e0fd15f.chunk.js",
+    "index.html": "/talkwithaakash.github.io/index.html",
+    "main.073c9b0a.css.map": "/talkwithaakash.github.io/static/css/main.073c9b0a.css.map",
+    "main.f50a359f.js.map": "/talkwithaakash.github.io/static/js/main.f50a359f.js.map",
+    "787.4e0fd15f.chunk.js.map": "/talkwithaakash.github.io/static/js/787.4e0fd15f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f50a359f.js"
+  ]
+}
